@@ -4,6 +4,7 @@ body{
 .contact{
     background: gainsboro;
     padding-bottom: 1rem;
+    padding-top: 1rem;
 }
 .submit {
     float: right;
