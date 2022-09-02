@@ -1,3 +1,10 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+.contact{
+    background: gainsboro;
+    padding-bottom: 1rem;
+}
+.submit {
+    float: right;
 }
