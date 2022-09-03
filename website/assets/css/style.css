@@ -29,3 +29,22 @@ body{
     padding: 0px;
     padding-top: 10px;
 }
+.grey{
+    color: #767676;
+}
+.black{
+    color: black;
+    margin-right: 10px;
+}
+p{
+    color:black;
+}
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 50%;
+    padding: 80px;
+}
+.head{
+    display: flex;
+}
