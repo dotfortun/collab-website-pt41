@@ -9,3 +9,23 @@ body{
 .submit {
     float: right;
 }
+
+
+.portfolio-heading {
+    padding-left: 20px;
+}
+
+.card-title {
+    color: rgb(45, 45, 192);
+}
+
+.card {
+    padding: 15px;
+    border: none;
+    background: none;
+}
+
+.card-body {
+    padding: 0px;
+    padding-top: 10px;
+}
